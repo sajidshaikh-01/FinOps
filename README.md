@@ -208,5 +208,3 @@ As a DevOps engineer, FinOps means:
 * Optimizing Kubernetes & cloud resources
 * Building cost awareness into CI/CD
 
----ggg
-gg
