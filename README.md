@@ -209,3 +209,4 @@ As a DevOps engineer, FinOps means:
 * Building cost awareness into CI/CD
 
 ---ggg
+gg
